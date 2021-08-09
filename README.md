@@ -5,10 +5,6 @@ Para conseguir executar este aplicativo, você precisa efeutar o download de uma
 
 Tendo baixado os arquivos referentes ao Java, você também precisa dos arquivos do conversor, disponibilizados aqui no Git. Efetuado o download, você copiará a pasta "conversorDistancias" inteira nesse local aqui: documentos/NetBeansProjects.
 
-Inicie o NetBeans, Clique em "file" (parte superior esquerda da tela), "open project", selecione "conversorDistancias" e clique em "Open Project". Para executar o conversor siga os seguintes passos:
 
-clique no botão "+" ao lado de "conversorDistancias" que estará à esquerda da tela,
-após clique em "+" ao lado de "Src",
-feito isso, clique em "+" ao lado de "main",
-clique em "+" ao lado de "java",
-por fim, de um clique duplo em Converter.java, selecione a aba "Design" na tela que abriu e tecle "Shift" + "F6" para iniciar o programa.
+Inicie o NetBeans, clique em "file", "open Project", selecione "conversorMassas" e clique em "Open Project". 
+Selecione a aba "Files" (canto esquerdo da tela), clique no "+" ao lado da pasta "conversorDistancias", clique no "+" na pasta "src", também será necessário clicar no "+" na pasta "main" e na pasta "java", feito isso terá um arquivo chamado "Converter.java", dê um clique duplo nesse arquivo e tecle "Shift" e "F6" simultâneamente e então, finalmente, o Conversor será executado.
