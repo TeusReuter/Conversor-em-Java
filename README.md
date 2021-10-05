@@ -1,4 +1,4 @@
-# Conversor-em-Java
+Controle de estoque em java
 
 
 Para conseguir executar este aplicativo, você precisa efeutar o download de uma IDE para Java, eu recomendo o NetBeans. Além do NetBeans, você precisará de um programa chamado JDE, você pode baixar os 2 arquivos diretamente nesse link aqui: https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html Escolha seu sistema operacional para efetuar o download, ex: Windows x64.
